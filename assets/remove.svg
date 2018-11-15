@@ -1,0 +1,13 @@
+<svg id="Group_727" data-name="Group 727" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.249 24.352">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Path_140" data-name="Path 140" class="cls-1" d="M98.721,2.867H95.47V.755A.756.756,0,0,0,94.7,0a.115.115,0,0,0-.082.028A.1.1,0,0,0,94.564,0H86.813a.744.744,0,0,0-.755.755V2.867H82.793a1.64,1.64,0,0,0-1.66,1.66V7.244h1.441V22.706a1.617,1.617,0,0,0,1.646,1.646H97.295a1.628,1.628,0,0,0,1.66-1.646V7.244h1.427V4.528A1.64,1.64,0,0,0,98.721,2.867ZM87.567,1.509h6.38V2.867h-6.38Zm9.864,21.2c0,.1-.041.137-.137.137H84.22c-.1,0-.137-.041-.137-.137V7.244H97.432ZM98.859,5.735h-16.2V4.528c0-.1.041-.151.137-.151H98.721c.1,0,.137.055.137.151V5.735Z" transform="translate(-81.133)"/>
+  <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-1" width="1.523" height="12.485" transform="translate(12.389 9.014)"/>
+  <rect id="Rectangle_139" data-name="Rectangle 139" class="cls-1" width="1.523" height="12.485" transform="translate(8.877 9.014)"/>
+  <rect id="Rectangle_140" data-name="Rectangle 140" class="cls-1" width="1.523" height="12.485" transform="translate(5.364 9.014)"/>
+</svg>
